@@ -1,3 +1,3 @@
 # Vibe Guess Word
 
-Guess Word Game is a fun and addictive word puzzle where players try to guess the hidden word using clues or letter hints. Test your vocabulary, challenge your mind, and race against the clock to solve each word. Great for all ages!
+Vibe Guess Word is an addictive word puzzle game where players guess hidden words using clues or letter hints. Challenge your vocabulary, sharpen your mind, and race the clock to solve each puzzle—fun and engaging for all ages.
